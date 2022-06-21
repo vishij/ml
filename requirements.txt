@@ -13,7 +13,7 @@ kiwisolver==1.0.1
 matplotlib==2.2.2
 networkx==2.1
 numexpr==2.6.4
-numpy==1.14.2
+numpy==1.22.0
 pandas==0.22.0
 parso==0.1.1
 pexpect==4.4.0
